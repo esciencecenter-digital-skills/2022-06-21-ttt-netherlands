@@ -138,12 +138,14 @@ please check your spam folder and email instructor.training@carpentries.org with
 
 We are committed to making this workshop
 accessible to everybody.
+<!--
 Workshop organisers have checked that:
 
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
+-->
 
 Materials will be provided in advance of the workshop. 
 If we can help make learning easier for you in any way by 
