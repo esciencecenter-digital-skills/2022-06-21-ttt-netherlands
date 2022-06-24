@@ -377,21 +377,28 @@ Top
 ## Questions?
 
 - How much can you 'safely' deviate from the course materials provided by the Carpentries?
-    - Should we still refer to the standard course schedule if we deviate from it?
+    - If you want to call your workshop Software, Data or Library Carpentry, you should stick to the curriculum. If you want to teach only part of the Carpentries material without doing a full Carpentries workshop, you can. In that case, you should not call your workshop Data/Software/Library Carpentry, but you can call it something else (e.g. introduction to version control with Git). Note that you should acknowledge the Carpentries when using their materials. 
+- Should we still refer to the standard course schedule if we deviate from it?
+    - You can adjust the schedule to your needs. If you are teaching a Software Carpentry, Data Carpentry or Library Carpentry workshop, you should cover the material that is in the original schedule. 
 - How strict is the format/procedure/...?
+    - I hope the questions above provide some answer to this. 
 - It is very helpful if participants install all necessary software (and download data) *before* the workshop. How to best encourage this behaviour? And how to deal with learners who mention casually halfway down your lesson "oh, I don't think I have this installed"?
   - some experience from teaching at the eScience Center: when sending an e-mail to the participants before the workshop, we link to the setup instructions that are part of most (all?) carpentries courses. Adding a short version of the installation instructions to the e-mail itself can be helpful. For really entry-level workshops we sometimes organize an optional setup session a few days before the workshop, where participants can get help with installation of the required software. Still, you're often run into a situation where some participants don't have everything installed, so asking about that at the start of a workshop is useful. 
   - Lieke here: Agree completely with the answer above. Recently we taught a couple of data carpentry workshops, where at the end of day 1 we took some time to make sure that everyone had their Python setup in order (those who did could leave). This worked quite well. In  general, you will always need to do a check at the beginning of a workshop, to see if everyone can open their notebooks / start the necessary software. There will almost always be participants for whom it isn't working. That requires you or your helpers to spend time dedicated to those participants, while some of the others wait. It can be quite annoying for the rest of the participants, but it means that everyone is actually on board when starting, and no one is panicking and trying to get their software to work. 
 - Joining community meeting is mentioned in the instructor's checklists (both pre- and post-workshop) - what happens in these meetings? Is there any advantage in joining these meeting close to a workshop?
+    - These meetings are a great way of learning from other members of the Carpentries Instructors community. If you are preparing for a workshop, attending the meeting may help you answer questions you may have. 
 - it says that an increase in self-organised workshops makes it harder for the workshop administration to find instructors for centrally-organised workshops; from the box, I don't get how the use of certain channels for recruiting instructors helps with that
+    - You should not use the Carpentries instructors channel to recruit instructors for your workshop, because that makes it harder for the Carpentries to recruit instructors for centrally organised workshops. 
 - Should a helper (always) be a certified instructor?
     - Formally there only needs to be one certified instructor (of the two instructors). Helpers don't need to be certified, but it is great route towards becoming an instructor. 
 - Should you also involve the Carpentries when you just want to teach one lesson (rather than a complete course)?
-
+    - As long as you do not call it a "Carpentries workshop", you do not need to involve the Carpentries. However, if you are using Carpentries materials, it's a good idea to fill out their self-organised workshop submission form, so the Carpentries get an overview of how their lesson material is being used. 
 - Is it expected that all self-organised workshops be published on the carpentries website?
-
+    - No, because not all of them involve the Carpentries. 
 - What is the relationship between eScience center and Carpentries? Are all eScience center workshop also Carpentries workshop?
+    - The eScience Center is a platinum Carpentries member. We teach many workshops and develop lessons that are part of the Carpentries Incubator. Most of the workshops we teach are not official Carpentries workshops, because we do not often teach introductory workshops anymore. Other than this, we help build a Carpentries community in the Netherlands, in order to empower researchers to use digital tools. We have 2 Instructor Trainers at the Center: Mateusz and Lieke. 
 - The Carpentries is about acquiring skills, not tricks. At the end of a workshop I sometimes feel I taught students a lot of tricks without enough theoretical underpinning. How do you balance that?
+    - The Carpentries workshops are focused on teaching practical skills for specific situations. The workshops should include just enough theory to be able to work with the tools participants are taught about. This could feel "trick-like", but the goal is to make participants comfortable in learning to do programming. There is often a barrier for people to start doing this in practice, so that's why the focus is on practical skills. 
 
 
 ## 📑📖💻Resources
